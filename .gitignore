@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+config/env/
+
+# Env config file
+env.config
+.env
+
+# Project root media & static folders
+/media/
+/static/
+/virtualenv/
